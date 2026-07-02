@@ -2,3 +2,4 @@ db.sql
 *.log
 !important.log
 node_modules/
+about.html
