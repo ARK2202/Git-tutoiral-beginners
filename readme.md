@@ -6,4 +6,8 @@ the best ways are :
 - code 
 - repeat
 
+<<<<<<< HEAD
 Thankyou!
+=======
+Thankyou!
+>>>>>>> 9b37958cf9ad427fd9c3f039bcdd7cfb120f564f
